@@ -25,6 +25,7 @@ Datormācības kursa elektroniskā klade
 **rmdir** -  izdzēš failu (dokumentu), 
 
 Papildfunkcija
+
 *--ignore-fail-on-non-empty - piespiedu izdzēš
 
 **cat** - izvada dokumenta textu terminālī
@@ -37,5 +38,6 @@ Papildfunkcija
 
 **rm**- izdzēš failu,
 
-Papildfunkcija *-f, piespiedu izdzēš
+Papildfunkcija 
+*-f, piespiedu izdzēš
 
