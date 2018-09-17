@@ -2,7 +2,7 @@
 Datormācības kursa elektroniskā klade
 **echo $0** - izvada rindu ar tekstu.
 
-**u(jebkurš burts) + 2xtab** - atrod komandas ar burtu.
+**u(jebkurš burts) + 2 x tab** - atrod komandas ar burtu.
 
 **whoami** - izvada lietotaja vārdu.
 
