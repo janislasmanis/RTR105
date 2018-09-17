@@ -1,0 +1,154 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  whoami
+    5  who
+    6  pwd
+    7  ls -1
+    8  ls 0a
+    9  ls -a
+   10  ls -l
+   11  cs music
+   12  cd Music/
+   13  ls
+   14  pwd
+   15  ls
+   16  ls -a
+   17  ls -la
+   18  pwd
+   19  cs .
+   20  cd .
+   21  pwd
+   22  cd ..
+   23  pwd
+   24  ls -la
+   25  cd .
+   26  pwd
+   27  cd ..
+   28  pwd
+   29  cd ..
+   30  pwd
+   31  ls -la
+   32  cd ..
+   33  pwd
+   34  cd /home/user/
+   35  pwd
+   36  cd/ 
+   37  cd /
+   38  pwd
+   39  cd home/
+   40  pwd
+   41  cd /
+   42  man cd
+   43  cd /usr/
+   44  pwd
+   45  cd /
+   46  cd `
+
+pwd
+cd /
+cd `
+   47  cd ~
+   48  pwd
+   49  cd /
+   50  cd 
+   51  pwd
+   52  mkdir
+   53  pwd
+   54  mkdri ManaMape
+   55  mkdir ManaMape
+   56  ls -l
+   57  cd ManaMape
+   58  pwd
+   59  ls
+   60  ls -la
+   61  cd ..
+   62  pwd
+   63  rmdir ManaMape/
+   64  ls -l
+   65  mkdir ManaMape
+   66  cd ManaMape/
+   67  mkdir ManApakshMape
+   68  cd ManApakshMape/
+   69  pwd
+   70  rmdir ManaMape/
+   71  cd
+   72  rmdir ManaMape/
+   73  man rmdir
+   74  man rm
+   75  rm -r ManaMape/
+   76  ls -l
+   77  man echo
+   78  echo "teksts"
+   79  ``
+   80  `
+`
+   81  `
+`
+   82  kj
+   83  echo "teksts"
+   84  echo "Teksts"
+   85  echo "Teksts
+`
+`
+
+
+"
+   86  echo "Teksts\nteksts\nteksts"
+   87  |n
+   88  \n
+   89  echo -e "Teksts\nteksts\nteksts"
+   90  echo "Teksts"
+   91  echo "Teksts" > fails1.txt
+   92  ls -l
+   93  cat fails1.txt
+   94  more fails.txt
+   95  more fails1.txt
+   96  less fails1.txt
+   97  echo "Papildus teksts" > fails1.txt
+   98  ls -l
+   99  cat fails1.txt
+  100  echo "Teksts" > fails1.txt
+  101  cat fails1.txt
+  102  echo "Papildus teksts" >> fails1.txt
+  103  cat fails1.txt
+  104  ls -l
+  105  nano fails1.txt
+  106  ls -l
+  107  chmod 540 fails1.txt
+  108  ls -l
+  109  echo "Teksts" > fails1.txt
+  110  nano fails1.txt
+  111  ls -l
+  112  nano fails1.txt
+  113  ls -l
+  114  echo "Teksts" > ../fails1.txt
+  115  cp fails1.txt fails101.txt
+  116  ls -l
+  117  ls
+  118  mv *1*.txt Music/
+  119  ls -l
+  120  cd Music/
+  121  ls -l
+  122  mv fails1.txt ../fails102.txt
+  123  ls -l
+  124  cd 
+  125  ls -l
+  126  mv fails102.txt fails103.txt
+  127* mv
+  128  mv fails103.txt fails2.txt
+  129  ls -l
+  130  cat fails2.txt
+  131  mv fails33.txt fails2.txt
+  132  mv fails3.txt fails2.txt
+  133  ls Music/
+  134  ls -la Music/
+  135  pwd
+  136  rm Music/fails101.txt
+  137  ls -la Music/
+  138  rm fails*.txt
+  139  ls -l
+  140  rm-a
+  141  man rm
+  142  history
+  143  history > history_20180917.txt
