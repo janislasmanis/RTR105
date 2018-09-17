@@ -26,7 +26,7 @@ Datormācības kursa elektroniskā klade
 
 Papildfunkcija
 
-*--ignore-fail-on-non-empty - piespiedu izdzēš
+* --ignore-fail-on-non-empty - piespiedu izdzēš
 
 **cat** - izvada dokumenta textu terminālī
 
@@ -39,5 +39,5 @@ Papildfunkcija
 **rm**- izdzēš failu,
 
 Papildfunkcija 
-*-f, piespiedu izdzēš
+* -f, piespiedu izdzēš
 
